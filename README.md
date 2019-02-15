@@ -4,6 +4,6 @@ Windows console application written in C# / .NET - Simple number guessing game.
 Version
 1.0.0
 
-# Guess-Number-App
+# Usage
 Run bin/NumberGuesser.exe
 
